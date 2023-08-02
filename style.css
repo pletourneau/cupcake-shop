@@ -1,0 +1,14 @@
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+#best {
+    color: green;
+    font-size: large;
+    font-weight: 600;
+}
+
+#best_text {
+    color: royalblue;
+}
